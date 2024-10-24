@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-24T15:15:56 IST" name="Default suite" finished-at="2024-10-24T15:16:09 IST" duration-ms="13643">
+    <groups>
+    </groups>
+    <test started-at="2024-10-24T15:15:56 IST" name="Default test" finished-at="2024-10-24T15:16:09 IST" duration-ms="13643">
+      <class name="Nani.HandlingDynamicTable">
+        <test-method signature="dynamicTableHandlingTest()[pri:1, instance:Nani.HandlingDynamicTable@6aba2b86]" started-at="2024-10-24T15:15:56 IST" name="dynamicTableHandlingTest" finished-at="2024-10-24T15:16:09 IST" duration-ms="13571" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dynamicTableHandlingTest -->
+      </class> <!-- Nani.HandlingDynamicTable -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
