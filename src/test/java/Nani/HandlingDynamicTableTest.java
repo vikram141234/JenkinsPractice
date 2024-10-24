@@ -13,7 +13,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.Select;
 import org.testng.annotations.Test;
 
-public class HandlingDynamicTable {
+public class HandlingDynamicTableTest {
 
 	@Test(priority = 1,invocationCount = 1,enabled = true)
 	void dynamicTableHandlingTest()
